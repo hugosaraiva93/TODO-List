@@ -1,0 +1,16 @@
+.post {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 6rem;
+  grid-template-columns: 1fr;
+}
+
+.post img {
+  margin-bottom: 16px;
+}
+
+.post span {
+  font-weight: 600;
+  margin: 4px;
+}
