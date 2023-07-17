@@ -1,10 +1,11 @@
-# ToDo List da RockeetSeat em Typescript 🚀
+# ToDo List da RockeetSeat em Typescript!!
 
 ### Objetivo
 * Executar um lista de tarefas usando React-Ts.
 
 #### Funções:
-Criar, excluir e marcar com checkbox. 
+Criei um projeto de tarefas a serem realizadas com:
+criar, excluir e marcar com checkbox. 
 Função bonus de salvar lista no banco de dados.
 Com icone na pagina.
 
@@ -17,6 +18,3 @@ Com icone na pagina.
     <img align:"center"; height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
 
-## Plataforma:
- 
-🚀 https://www.rocketseat.com.br/
