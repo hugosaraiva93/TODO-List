@@ -4,7 +4,7 @@
 * Executar um lista de tarefas usando React-Ts.
 
 #### Funções:
-Criei um projeto de tarefas a serem realizadas com:
+Criei um projeto de tarefas a serem realizadas com funções de:
 criar, excluir e marcar com checkbox. 
 Função bonus de salvar lista no banco de dados.
 Com icone na pagina.
