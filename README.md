@@ -1,4 +1,4 @@
-# ToDo List da RockeetSeat em Typescript!!
+# ToDo List em Typescript!!
 
 ### Objetivo
 * Executar um lista de tarefas usando React-Ts.
