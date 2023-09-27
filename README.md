@@ -1,4 +1,4 @@
-# ToDo List em Typescript!!
+# ToDo List em Ts!!
 
 ### Objetivo
 * Executar um lista de tarefas usando React-Ts.
