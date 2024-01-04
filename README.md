@@ -1,4 +1,4 @@
-# ToDo List em Ts!!
+# ToDo!!
 
 ### Objetivo
 * Executar um lista de tarefas usando React-Ts.
